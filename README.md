@@ -62,3 +62,5 @@ python src/01_pull_acs.py
 - County boundaries: Census Cartographic Boundary file, **2023**
 
 Record the exact file names and download dates in data/README.md.
+<img width="2154" height="1234" alt="Image 7-4-26 at 1 42 PM" src="https://github.com/user-attachments/assets/b42ad5c4-71db-47b9-b6c6-e9c9ffdf8e4a" />
+
