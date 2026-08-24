@@ -8,7 +8,7 @@ gap with a socioeconomic equity score.
 
 > In Florida, are mobile coverage gaps concentrated in lower-income, more rural
 > counties — and does a need-based prioritization that weights the coverage gap by
-> socioeconomic vulnerability rank different counties than coverage gap alone?
+> Does socioeconomic vulnerability rank different counties than coverage gap alone?
 
 **Hypothesis:** coverage gaps fall disproportionately on poorer, more rural
 counties, so the equity-weighted ranking will diverge meaningfully from a
