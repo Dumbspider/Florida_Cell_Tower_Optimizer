@@ -2,13 +2,13 @@
 
 A transparent, reproducible index that ranks Florida's 67 counties by **need for
 mobile broadband (cell tower) investment**, combining a demand-weighted coverage
-gap with a socioeconomic equity score.
+Gap with a socioeconomic equity score.
 
 ## Research question
 
 > In Florida, are mobile coverage gaps concentrated in lower-income, more rural
 > counties — and does a need-based prioritization that weights the coverage gap by
-> Does socioeconomic vulnerability rank different counties than coverage gap alone?
+> Does socioeconomic vulnerability rank different counties than the coverage gap alone?
 
 **Hypothesis:** coverage gaps fall disproportionately on poorer, more rural
 counties, so the equity-weighted ranking will diverge meaningfully from a
